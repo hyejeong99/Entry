@@ -43,7 +43,7 @@
 
 #### (2)ROS 카테고리 내 블록 추가
 
-![ros카테고리_1](https://user-images.githubusercontent.com/59854960/117400963-a1a96b00-af3e-11eb-9a9e-92b516309ecf.PNG)
+![ROS 카테고리](https://user-images.githubusercontent.com/59854960/117401160-01a01180-af3f-11eb-97a2-c97f7dc1c3bb.PNG)
 
 다음과 같이 5개의 카테고리를 추가해줬다.
 
