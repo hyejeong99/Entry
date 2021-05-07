@@ -30,3 +30,19 @@
 탈출에 성공하면, 다음과 같은 화면을 볼 수 있다.
 
 ![2](https://user-images.githubusercontent.com/59854960/114135840-cc56d280-9944-11eb-88d5-f53f7432661a.png)
+
+### 3. 엔트리와 ROS 연동하기
+엔트리 블록 명세 작성하는 법을 참고해, 엔트리와 ROS를 연동하는 카테고리를 만들어줬다.
+기존의 14개 카테고리 외에 ROS 카테고리를 하나 더 정의해줬다.
+
+#### (1)ROS 카테고리 추가
+![ros카테고리](https://user-images.githubusercontent.com/59854960/117400965-a1a96b00-af3e-11eb-90e5-212521f99611.PNG)
+맨 아래에 ROS 카테고리를 추가해줬다.
+
+![최종](https://user-images.githubusercontent.com/59854960/117400953-9e15e400-af3e-11eb-8974-e92d38b2af07.PNG)
+![imu연결](https://user-images.githubusercontent.com/59854960/117400961-a110d480-af3e-11eb-9428-81c19f0d55ea.PNG)
+![ros카테고리_1](https://user-images.githubusercontent.com/59854960/117400963-a1a96b00-af3e-11eb-9a9e-92b516309ecf.PNG)
+![최종](https://user-images.githubusercontent.com/59854960/117400964-a1a96b00-af3e-11eb-9e6a-593c7ee7a1d0.PNG)
+
+![us_추가](https://user-images.githubusercontent.com/59854960/117400967-a2420180-af3e-11eb-9f5f-d418f1d8c6f8.PNG)
+
