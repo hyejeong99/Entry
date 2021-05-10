@@ -47,6 +47,21 @@
 
 다음과 같이 5개의 카테고리를 추가해줬다.
 
+#### (2-1)초음파 센서 SUB
+
+초음파 SUB 하면 리스트를 생성해준다.
+리스트에 초음파 8개 값 받아와서 리스트에 띄워준다.
+
+![초음파 리스트](https://user-images.githubusercontent.com/59854960/117593049-c8051b80-b175-11eb-97f0-c94837c41236.PNG)
+
+리스트는 위와 같이 생성된다.
+
+![초음파 실행](https://user-images.githubusercontent.com/59854960/117593048-c63b5800-b175-11eb-8ae5-377e2f0c041c.PNG)
+
+초음파가 실행되면 받아오는 초음파 값에 따라 리스트가 계속 변화한다.
+
+#### (2-2)카메라 센서 SUB
+
 #### (3)최종
 
 ![최종](https://user-images.githubusercontent.com/59854960/117400964-a1a96b00-af3e-11eb-9e6a-593c7ee7a1d0.PNG)
