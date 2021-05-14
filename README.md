@@ -64,7 +64,7 @@
 
 엔트리 캔버스에 SUB 해온 카메라 영상이 뜬다.
 
-####(2-3)motor 메세지 PUB
+#### (2-3)motor 메세지 PUB
 
 motor에 angle과 speed 값을 pub 해준다.
 
@@ -72,7 +72,6 @@ motor에 angle과 speed 값을 pub 해준다.
 
 #### (3)최종
 
-![최종](https://user-images.githubusercontent.com/59854960/118233307-b2248d00-b4cc-11eb-9280-92f69c7062d9.PNG)
 
 ![최종_1](https://user-images.githubusercontent.com/59854960/118233308-b355ba00-b4cc-11eb-8ce6-30ee5aaf3024.PNG)
 
