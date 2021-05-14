@@ -61,3 +61,12 @@
 초음파가 실행되면 받아오는 초음파 값에 따라 리스트가 계속 변화한다.
 
 #### (2-2)카메라 센서 SUB
+
+엔트리 캔버스에 SUB 해온 카메라 영상이 뜬다.
+
+####(2-3)motor 메세지 PUB
+
+motor에 angle과 speed 값을 pub 해준다.
+
+![예제_초음파,조향](https://user-images.githubusercontent.com/59854960/118233127-77baf000-b4cc-11eb-9247-14f499a39c4e.PNG)
+
